@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+*.env
+!.env.example
+
+# Node modules
+node_modules/
+**/node_modules/
+
+# Build folders
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
